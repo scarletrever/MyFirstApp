@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mr. T\'s First App</string>
+    <string name="edit_message">Enter a msg, Fool!</string>
+    <string name="button_send">Send, Fool!</string>
+    <string name="menu_settings">Settings, Fool!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="status_msg">SENT, FOOL!</string>
+    <string name="title_activity_display_message">Status</string>
+
+</resources>
