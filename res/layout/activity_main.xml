@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     tools:context=".MainActivity" >
-    <!-- Comment 3 -->
+    <!-- Comment 4 -->
 
 	<EditText android:id="@+id/edit_message"
 	    android:layout_weight="1"
